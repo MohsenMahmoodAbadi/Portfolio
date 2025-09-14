@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31808.319
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCms", "MyCms.csproj", "{D8CDAD3D-85BA-46D6-98D6-05D85AE0CCBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer1", "..\DataLayer1\DataLayer1.csproj", "{1B857EB9-3D0A-4494-8F51-BF23B4067164}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "..\DataLayer1\DataLayer.csproj", "{1B857EB9-3D0A-4494-8F51-BF23B4067164}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
