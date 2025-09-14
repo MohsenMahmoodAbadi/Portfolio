@@ -8,8 +8,8 @@
     <ProjectGuid>{1B857EB9-3D0A-4494-8F51-BF23B4067164}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DataLayer1</RootNamespace>
-    <AssemblyName>DataLayer1</AssemblyName>
+    <RootNamespace>DataLayer</RootNamespace>
+    <AssemblyName>DataLayer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
