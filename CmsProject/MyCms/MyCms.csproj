@@ -1459,7 +1459,7 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataLayer1\DataLayer.csproj">
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj">
       <Project>{1b857eb9-3d0a-4494-8f51-bf23b4067164}</Project>
       <Name>DataLayer</Name>
     </ProjectReference>
